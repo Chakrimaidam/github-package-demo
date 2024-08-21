@@ -1,5 +1,5 @@
 {
-  "name": "@chakrimaidam/github-package-demo",
+  "name": "@Chakrimaidam/github-package-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "repository":{
-    "url": "https://github.com/chakrimaidam/github-package-demo.git"
+    "url": "https://github.com/Chakrimaidam/github-package-demo.git"
   },
   "author": "",
   "license": "ISC",
